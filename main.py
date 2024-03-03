@@ -98,7 +98,7 @@ def test_quadratic_multiply(x, y, f):
     return (time.time() - start)*1000
 
 #test
-print(subquadratic_multiply(BinaryNumber(9), BinaryNumber(9)))
+#print(subquadratic_multiply(BinaryNumber(9), BinaryNumber(9)))
     
     
 
